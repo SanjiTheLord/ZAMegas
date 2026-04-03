@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "zamega:item/chimechoite"
+    "layer0": "zamega:item/chimechite"
   }
 }
